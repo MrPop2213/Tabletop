@@ -1,0 +1,4 @@
+name = "Tabletop"
+uuid = "494293a8-1dc2-47d0-88ff-3a837a9cbd57"
+authors = ["Patrick Armstrong <patrick.armstrong@anu.edu.au>"]
+version = "0.1.0"
