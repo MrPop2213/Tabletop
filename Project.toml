@@ -2,3 +2,8 @@ name = "Tabletop"
 uuid = "494293a8-1dc2-47d0-88ff-3a837a9cbd57"
 authors = ["Patrick Armstrong <patrick.armstrong@anu.edu.au>"]
 version = "0.1.0"
+
+[deps]
+Gtk = "4c0ca9eb-093a-5379-98c5-f87ac0bbbf44"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
