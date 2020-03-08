@@ -1,1 +1,2 @@
-https://travis-ci.com/MrPop2213/Tabletop.svg?token=qzprZyoizyPTGK7TMKam&branch=master
+[![Build Status](https://travis-ci.com/MrPop2213/Tabletop.svg?token=qzprZyoizyPTGK7TMKam&branch=master)](https://travis-ci.com/MrPop2213/Tabletop)[![codecov](https://codecov.io/gh/MrPop2213/Tabletop/branch/master/graph/badge.svg)](https://codecov.io/gh/MrPop2213/Tabletop)[![Coverage Status](https://coveralls.io/repos/github/MrPop2213/Tabletop/badge.svg?branch=master)](https://coveralls.io/github/MrPop2213/Tabletop?branch=master)
+
